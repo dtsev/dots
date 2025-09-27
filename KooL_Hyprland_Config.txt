@@ -1,0 +1,7 @@
+Script https://github.com/JaKooLit/Ubuntu-Hyprland/tree/24.04
+My Installation Options:
+nvidia
+bluetooth
+gtk-themes
+
+
