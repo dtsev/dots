@@ -12,6 +12,24 @@
 <img src="Pictures\image.png" alt="terminal">
 
 # Installation
-- just run the Makefile
->[!IMPORTANT] all programs shoudl be installed before running makefile
+Just run the Makefile
+>[!IMPORTANT] all programs should be installed before running makefile
+
+```bash
+make
+```
+or to just install wallpapers
+```bash
+make move-pictures
+```
+or to just install configs
+```bash
+make move-configs
+```
+or to just install home directory file
+```bash
+make move-root-files
+```
+
+
 
