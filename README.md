@@ -1,4 +1,5 @@
 <h1 align="center"><img src="Pictures/cat.jpg"><br>my superproductivity dots</h3>
+
 - WM: `Hyprland`
 - Terminal: `wezterm`
 - Terminal font: `Fira Code`
@@ -9,11 +10,13 @@
 - browser: `qutebrowser`
 - colors: `pywal16`
 
-<img src="Pictures\image.png" alt="terminal">
+<img src="Pictures\image.png" alt="preview">
 
 # Installation
 Just run the Makefile
->[!IMPORTANT] all programs should be installed before running makefile
+
+>[!IMPORTANT]
+>all programs should be installed before running makefile
 
 ```bash
 make
@@ -23,7 +26,7 @@ or to just install wallpapers
 make move-pictures
 ```
 or to just install configs
-```bash
+```sh
 make move-configs
 ```
 or to just install home directory file
